@@ -10,8 +10,12 @@ A simple PHP class for CloudFlare Images CDN.
 # Installation
 
 **With composer**
-
-    composer require shitric/cloudflare-images
+```sh
+composer require shitric/cloudflare-images
+```
+```PHP
+use Shitric\CloudFlare\Images;
+```
 
 **Manual**
 
